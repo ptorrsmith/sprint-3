@@ -33,6 +33,7 @@
 * Simple HTML structure
   * could adopt alternative stylesheets and imagery
   * HTML5 element tags
+  * See [the HTML Doctor's HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
 * Well structured classses in CSS
 
 
