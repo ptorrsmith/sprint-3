@@ -73,3 +73,6 @@
 * build up simple \<div> and \<section> HTML structure for home and article page
   * use Skeleton classes for simple clean start
 * build up simple structured custom CSS to arrange and style blocks
+* Code, Review, Refine
+* Explore how responds on multiple devices and screen sizes
+* Get feedback from friends and family
